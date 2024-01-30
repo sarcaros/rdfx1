@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdfx1
 - 👀 I’m interested in .NET, React, DevOps
-- 📈 I'm currently learning the T3 stack...
+- 📈 I'm interested in Next.js
 
 <!---
 rdfx1/rdfx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
